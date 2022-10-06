@@ -4,4 +4,4 @@ In this work, we estimated the performance of different functional connectivity 
 
 Source codes for the simulations are in the /code_simulations directory, codes for analyses and plots of the paper figures are in the /code_plot directory.
 
-The scripts have been tested on both Windows and Linux operative system using MATLAB versions 2019b or newer.
+The scripts have been tested on both Windows and Linux operative system using MATLAB version 2019b or newer.
