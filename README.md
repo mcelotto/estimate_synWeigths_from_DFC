@@ -1,4 +1,4 @@
-GitHub repository for the M. Celotto, S. Lemke, and S. Panzeri 'Estimating Temporal Evolution of Synaptic Weights from Dynamic Functional Connectivity' (2022) paper.
+GitHub repository associated to the paper: M. Celotto, S. Lemke, and S. Panzeri 'Inferring the Temporal Evolution of Synaptic Weights from Dynamic Functional Connectivity' Brain Informatics, 2022.
 
 In this work, we estimated the performance of different functional connectivity matrices in recovering the fixed and dynamic connectivity properties of the Izhikevich recurrent spiking-neural network model.
 
